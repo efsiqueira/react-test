@@ -1,6 +1,8 @@
 const ESErrorPage = () => {
   return (
-    <div className="erro">Erro</div>
+    <div>
+      Erro
+    </div>
   )
 }
 
